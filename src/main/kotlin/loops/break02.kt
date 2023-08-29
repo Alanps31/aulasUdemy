@@ -1,3 +1,5 @@
+package loops
+
 fun main() {
     loop@for(i in 1..10){
         for (j in 1..10){

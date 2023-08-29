@@ -1,3 +1,5 @@
+package loops
+
 fun main() {
     var opcao: Int = 0
     do {
